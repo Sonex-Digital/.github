@@ -42,7 +42,7 @@ If you are interested in working with Sonex-Digital, please apply here:
 Have a project in mind or want to learn more about Sonex-Digital?
 
 - Website: [sonex-digital.com](https://sonex-digital.com)
-- Email: [hello@sonex-digital.com](mailto:hello@sonex-digital.com)
+- Email: [support@sonex-digital.com](mailto:support@sonex-digital.com)
 
 ---
 
